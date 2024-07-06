@@ -9,7 +9,7 @@ const certifications = [
       organization:
         "TensorFlow Certificate Program",
       badges: [ "Python", "TensorFlow", " Image Classification", "NLP", "Time Series Sequences and Predictions"],
-      imgSrc: "/src/pages/certificate/tfd.svg",
+      imgSrc: "/tfd.svg",
       link: "https://www.credential.net/0522ece6-6a16-44d3-b22b-e4d74e677718#gs.b7erdg",
     },
     {
@@ -18,7 +18,7 @@ const certifications = [
       organization:
         "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
       badges: ["TensorFlow", "Mathematics", "Machine Learning", "Deep Learning", "Python", "Data Analytics"],
-      imgSrc: "/src/pages/certificate/bangkit.svg",
+      imgSrc: "/bangkit.svg",
       link: "https://github.com/ridhwancahyadi",
     },
     {
@@ -27,7 +27,7 @@ const certifications = [
       organization:
         "Coursera",
       badges: [ "Python", "TensorFlow", " Image Classification", "NLP", "Time Series Sequences and Predictions"],
-      imgSrc: "/src/pages/certificate/deeplearning ai developer.svg",
+      imgSrc: "/deeplearning ai developer.svg",
       link: "https://www.coursera.org/account/accomplishments/specialization/certificate/BD7BW8M6XHNP",
     },
     {
@@ -36,7 +36,7 @@ const certifications = [
       organization:
         "Coursera",
       badges: ["Machine Learning", "Mathematics", "Python"],
-      imgSrc: "/src/pages/certificate/machine learning spesialization.svg",
+      imgSrc: "/machine learning spesialization.svg",
       link: "https://www.coursera.org/account/accomplishments/specialization/certificate/HDBFKRZ5JK2V",
     },
     {
@@ -45,7 +45,7 @@ const certifications = [
       organization:
         "Coursera",
       badges: ["TensorFlow", "TFJS", "Machine Learning", "Deep Learning"],
-      imgSrc: "/src/pages/certificate/tensorflow data and deployment.svg",
+      imgSrc: "/tensorflow data and deployment.svg",
       link: "https://www.coursera.org/account/accomplishments/specialization/certificate/SSKUFSGGC8QP",
     },
     {
@@ -54,7 +54,7 @@ const certifications = [
         organization:
           "Coursera",
         badges: ["Mathematics", "Statistics", "Python"],
-        imgSrc: "/src/pages/certificate/mathematics for machine learning.svg",
+        imgSrc: "/mathematics for machine learning.svg",
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/LBAUUXHJTWMA",
       },
     {
@@ -63,7 +63,7 @@ const certifications = [
         organization:
         "Coursera",
         badges: ["Python"],
-        imgSrc: "/src/pages/certificate/crash course on python.svg",
+        imgSrc: "/crash course on python.svg",
         link: "https://www.coursera.org/account/accomplishments/certificate/9KFRH2EW2SNL",
     },
     {
@@ -72,7 +72,7 @@ const certifications = [
         organization:
         "Coursera",
         badges: ["Visualization"],
-        imgSrc: "/src/pages/certificate/share data through the art of visualization.svg",
+        imgSrc: "/share data through the art of visualization.svg",
         link: "https://www.coursera.org/account/accomplishments/certificate/LCDJKV57S7NU",
     },
     {
@@ -81,7 +81,7 @@ const certifications = [
       organization:
         "Dicoding",
       badges: ["Visualization"],
-      imgSrc: "/src/pages/certificate/visualisasi data.svg",
+      imgSrc: "/visualisasi data.svg",
       link: "https://www.dicoding.com/certificates/NVP77Y29OPR0",
     },
 ];

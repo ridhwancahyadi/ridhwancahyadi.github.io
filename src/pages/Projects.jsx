@@ -17,7 +17,7 @@ const projects = [
     title: "MeditaZone APP",
     description:
       "An app inspired by Generation Z Indonesians facing mental health issues, aimed at assisting individuals in recognizing and managing mental disorders effectively using machine-learning models focused on Natural Language Processing (NLP).",
-    imgSrc: "/src/pages/projects/meditazone-app.svg",
+    imgSrc: "/meditazone-app.svg",
     badges: ["TensorFlow", "NLP", "Classification", "Python", "Flask", "Google Cloud Platform"],
     githubLink: "https://github.com/meditazone",
   },
@@ -25,7 +25,7 @@ const projects = [
     title: "Eco Sort",
     description:
       "Developed EcoSort, an app aiding waste management in urban Indonesia. Utilized machine learning to classify waste into seven categories: glass, cardboard, metal, plastic, paper, organic, and others. Implemented ResNet50 CNN, trained on ImageNet, achieving over 95% accuracy and around 87% validation accuracy.",
-    imgSrc: "/src/pages/projects/ecosort.svg",
+    imgSrc: "/ecosort.svg",
     badges: ["TensorFlow", "Image Classification", "React JS", "Tailwind CSS"],
     githubLink: "https://github.com/utdi-gas",
   },
@@ -33,7 +33,7 @@ const projects = [
     title: "UKM IK Website",
     description:
     "The IK UKM website aims to organize UKM efficiently and make it easier for administrators to manage members more effectively, in line with technological developments and the needs of the times.",
-    imgSrc: "/src/pages/projects/ukmik.svg",
+    imgSrc: "/ukmik.svg",
     badges: ["JavaScript", "React JS", "Tailwind CSS"],
     githubLink: "https://github.com/UKM-IK",
   },
@@ -41,7 +41,7 @@ const projects = [
     title: "Mindful Work",
     description:
       "MindfulWork is a digital platform dedicated to helping workers address their mental health issues. Our mission is to address mental health issues among workers by providing a comprehensive platform that supports mental health in a professional environment.",
-    imgSrc: "/src/pages/projects/mindfulwork.svg",
+    imgSrc: "/mindfulwork.svg",
     badges: ["Bootstrap"],
     githubLink: "https://github.com/ridhwancahyadi/Mindful-Work",
   },
@@ -49,7 +49,7 @@ const projects = [
     title: "Medical Checkup",
     description:
       "RSMedicalCheckup is a simple medical checkup management website. This simple website allows users to manage patient, doctor, and medical checkup data efficiently. Please note that this project is part of the campus project assignment in the Server Side Programming course.",
-    imgSrc: "/src/pages/projects/rsmc.svg",
+    imgSrc: "/rsmc.svg",
     badges: ["PHP", "JavaScript", "SQL"],
     githubLink: "https://github.com/ridhwancahyadi/RSMedicalCheckup",
   },

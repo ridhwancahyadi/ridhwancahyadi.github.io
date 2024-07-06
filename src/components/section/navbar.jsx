@@ -79,7 +79,7 @@ export const Navbar = () => {
                     Github
                   </a>
                   <a
-              href="https://github.com/ridhwancahyadi"
+              href="https://www.linkedin.com/in/ridhwancahyadi/"
               target="_blank"
               className={`border ${buttonVariants({ variant: "custom2" })}`}
             >
@@ -117,7 +117,7 @@ export const Navbar = () => {
               Github
             </a>
             <a
-              href="https://github.com/ridhwancahyadi"
+              href="https://www.linkedin.com/in/ridhwancahyadi/"
               target="_blank"
               className={`border ${buttonVariants({ variant: "custom2" })}`}
             >

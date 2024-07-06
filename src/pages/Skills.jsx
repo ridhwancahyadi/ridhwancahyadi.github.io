@@ -8,7 +8,7 @@ import {
 
 function Skills() {
   return (
-    <div className="my-5 ">
+    <div className="my-5" id="Skills">
       <div className="text-center mb-5">
         <h1 className="text-3xl md:text-4xl font-bold mb-2 inline bg-gradient-to-r from-[#8e44ad] to-[#3498db] text-transparent bg-clip-text">Skills</h1>
         <p className="text-[#a5a5a5] mt-2 text-md md:text-lg lg:w-3/12 w-8/12 mx-auto mb-10">

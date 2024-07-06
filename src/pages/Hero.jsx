@@ -4,7 +4,7 @@ import { GitHubLogoIcon } from "@radix-ui/react-icons";
 
 function Hero() {
   return (
-    <section className="container flex justify-center items-center relative h-screen ">
+    <section className="container flex justify-center items-center relative h-screen" id="About">
       <div className="text-center space-y-6 relative z-10 ">
         <main className="text-4xl md:text-5xl font-bold relative">
           <h1 className="text-[#d5d5d5] text-center relative">

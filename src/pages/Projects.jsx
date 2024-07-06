@@ -64,7 +64,7 @@ const Projects = () => {
     };
 
   return (
-    <div className="my-[100px]">
+    <div className="my-[100px]" id="Projects">
       <div className="flex flex-col text-left justify-between pt-8 w-11/12 mx-auto">
         <div className="text-center mb-5">
           <h1 className="text-3xl md:text-4xl font-bold mb-2 inline bg-gradient-to-r from-[#8e44ad] to-[#3498db] text-transparent bg-clip-text">

@@ -37,7 +37,7 @@ const Footer = () => {
       </div>
       <div className="mt-8 text-center me-5 text-gray-400 sm:text-right sm:-mt-12">
          <a
-              href="https://github.com/ridhwancahyadi"
+              href="https://github.com/ridhwancahyadi/ridhwancahyadi.github.io"
               target="_blank"
               className={`border ${buttonVariants({ variant: "custom3" })}`}
             >

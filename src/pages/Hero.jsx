@@ -44,7 +44,7 @@ function Hero() {
         <div className="space-y-4 md:space-y-0 md:space-x-4 space-x-2 text-white">
           <a
             rel="noreferrer noopener"
-            href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+            href="https://github.com/ridhwancahyadi"
             target="_blank"
             className={` ${buttonVariants({
               variant: "custom3",
@@ -55,7 +55,7 @@ function Hero() {
           </a>
           <a
             rel="noreferrer noopener"
-            href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+            href="https://drive.google.com/file/d/1HrsSStGu_jBH8OS6U3aiqwP5m7KOY01E/view?usp=sharing"
             target="_blank"
             className={` ${buttonVariants({
               variant: "custom2",

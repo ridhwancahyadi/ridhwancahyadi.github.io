@@ -16,23 +16,19 @@ function Hero() {
           </h1>
           {/* Animations */}
           <img
-            className="md:w-[100px] w-[60px] absolute md:top-[-40px] md:left-[10%] left-[8%] top-[-80px] z-[-1]"
+            className="md:w-[100px] w-[60px] absolute md:top-[-50px] md:left-[10%] left-[8%] top-[-60px] z-[-1]"
             src="/TensorFlow.svg"
           />
           <img
-            className="sm:block absolute md:top-[-50px] top-[-70px] md:right-[10%] right-[10%] z-[-1] md:w-[100px] w-[60px]"
+            className="sm:block absolute md:top-[-50px] top-[-50px] md:right-[10%] right-[10%] z-[-1] md:w-[100px] w-[60px]"
             src="/Pandas.svg"
           />
           <img
-            className="sm:block absolute md:left-[50px] md:bottom-[-150px] bottom-[-180px] md:w-[100px] w-[60px] z-[-1]"
+            className="sm:block absolute md:left-[50px] md:bottom-[-180px] bottom-[-250px] md:w-[100px] w-[60px] z-[-1]"
             src="/Python.svg"
           />
           <img
-            className=" absolute md:bottom-[-20px] top-[350px] md:left-[35%] left-[25%] w-[60px] z-[-1]"
-            src="/Keras.svg"
-          />
-          <img
-            className=" absolute right-[20px] md:bottom-[-180px] bottom-[-250px] md:w-[100px] w-[60px] z-[-1]"
+            className="absolute right-[50px] md:bottom-[-180px] bottom-[-250px] md:w-[100px] w-[60px] z-[-1]"
             src="/NumPy.svg"
           />
         </main>

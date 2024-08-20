@@ -19,7 +19,7 @@ const certifications = [
         "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
       badges: ["TensorFlow", "Mathematics", "Machine Learning", "Deep Learning", "Python", "Data Analytics"],
       imgSrc: "/bangkit.svg",
-      link: "https://drive.google.com/drive/folders/1x26KWluhVEhGk3JGjkGt1FPoHxWayJFj",
+      link: "https://drive.google.com/file/d/1QhGIyNA_4BcQ-jf-ZYIkJSJHNma6eyNL/view?usp=sharing",
     },
     {
       name: "DeepLearning.AI TensorFlow Developer Specialization",

@@ -27,7 +27,7 @@ const projects = [
       "Developed EcoSort, an app aiding waste management in urban Indonesia. Utilized machine learning to classify waste into seven categories: glass, cardboard, metal, plastic, paper, organic, and others. Implemented ResNet50 CNN, trained on ImageNet, achieving over 95% accuracy and around 87% validation accuracy.",
     imgSrc: "/ecosort.svg",
     badges: ["TensorFlow", "Image Classification", "React JS", "Tailwind CSS"],
-    githubLink: "https://github.com/utdi-gas",
+    githubLink: "https://github.com/ridhwancahyadi/ML-EcoSorter",
   },
   {
     title: "UKM IK Website",
@@ -35,7 +35,7 @@ const projects = [
     "The IK UKM website aims to organize UKM efficiently and make it easier for administrators to manage members more effectively, in line with technological developments and the needs of the times.",
     imgSrc: "/ukmik.svg",
     badges: ["JavaScript", "React JS", "Tailwind CSS"],
-    githubLink: "https://github.com/UKM-IK",
+    githubLink: "https://ukmik.utdi.ac.id/",
   },
   {
     title: "Mindful Work",

@@ -14,6 +14,14 @@ const truncateText = (text, wordLimit) => {
 
 const projects = [
   {
+    title: "StoryMaps of Yogyakarta Markets",
+    description:
+      "StoryMaps Pasar Yogyakarta uses aspect-based sentiment analysis (ABSA) to identify and understand public opinion on 9 traditional markets in Yogyakarta. Using interactive visualizations in ArcGIS, this project provides data-driven insights that can help policymakers make strategic decisions for more effective market management and development.",
+    imgSrc: "/storymaps.svg",
+    badges: ["TensorFlow", "NLP", "Deep Learning", "Python", "Flask", "Sentiment Analysis"],
+    githubLink: "https://github.com/ridhwancahyadi/ABSA-Model",
+  },
+  {
     title: "MeditaZone APP",
     description:
       "An app inspired by Generation Z Indonesians facing mental health issues, aimed at assisting individuals in recognizing and managing mental disorders effectively using machine-learning models focused on Natural Language Processing (NLP).",

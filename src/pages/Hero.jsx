@@ -51,13 +51,13 @@ function Hero() {
           </a>
           <a
             rel="noreferrer noopener"
-            href="https://drive.google.com/file/d/1HrsSStGu_jBH8OS6U3aiqwP5m7KOY01E/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Dn1tyIiRSJAE_57NZh-zBHsLje-bPMuA/view?usp=sharing"
             target="_blank"
             className={` ${buttonVariants({
               variant: "custom2",
             })}`}
           >
-            My Resume
+            Curriculum Vitae
           </a>
         </div>
       </div>

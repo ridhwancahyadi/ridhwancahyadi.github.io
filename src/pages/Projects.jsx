@@ -1,5 +1,5 @@
-import React, {useState} from "react";
-import { GitHubLogoIcon } from "@radix-ui/react-icons";
+import {useState} from "react";
+// import { GitHubLogoIcon } from "@radix-ui/react-icons";
 import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 

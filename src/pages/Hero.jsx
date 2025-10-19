@@ -51,7 +51,7 @@ function Hero() {
           </a>
           <a
             rel="noreferrer noopener"
-            href="https://drive.google.com/file/d/1Dn1tyIiRSJAE_57NZh-zBHsLje-bPMuA/view?usp=sharing"
+            href="https://drive.google.com/file/d/1QeBoII5294o6e6RKJJeHhjwlspBTUvBz/view?usp=sharing"
             target="_blank"
             className={` ${buttonVariants({
               variant: "custom2",
